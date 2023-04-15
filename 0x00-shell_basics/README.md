@@ -1,1 +1,2 @@
-Second readme in Shell basics
+#!/bin/bash
+Second readme in Shell Basics

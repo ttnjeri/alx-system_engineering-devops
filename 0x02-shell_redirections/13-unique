@@ -1,0 +1,2 @@
+#!/bn/bash
+sort | unique -u
